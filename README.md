@@ -26,4 +26,4 @@ Results show that the site was occupied during **all four seasons**, with strati
 ---
 
 ## Repository Contents  
-- `Poster Draft.pdf` – The conference poster (main file)
+- `Poster.pdf` – The conference poster 

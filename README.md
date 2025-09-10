@@ -26,7 +26,7 @@ Results show that the site was occupied during **all four seasons**, with strati
 ---
 ## References in the poster
 
-'* Hausmann, N., Theodoraki, D., Piñon, V., Siozos, P., Lemonis, A., & Anglos, D. (2023). Applying laser induced breakdown spectroscopy (LIBS) and elemental imaging on marine shells for archaeological and environmental research. Scientific Reports, 13(1), 19812.
+\* Hausmann, N., Theodoraki, D., Piñon, V., Siozos, P., Lemonis, A., & Anglos, D. (2023). Applying laser induced breakdown spectroscopy (LIBS) and elemental imaging on marine shells for archaeological and environmental research. Scientific Reports, 13(1), 19812.
 
 '** Hausmann, N., & Meredith-Williams, M. (2017). Exploring accumulation rates of shell deposits through seasonality data. Journal of Archaeological Method and Theory, 24(3), 776-795.
 

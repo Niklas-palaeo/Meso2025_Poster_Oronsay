@@ -19,11 +19,20 @@ To renew the study of Oronsay and the seasonal use of its shell middens, we are 
 
 ---
 ## Outcomes  
-Using **Laser-Induced Breakdown Spectroscopy (LIBS)**, this study generated high-resolution (<50 μm) elemental datasets from 85 limpet shell specimens excavated at the Cnoc Coig midden, Oronsay. The Mg/Ca distributions captured seasonal temperature changes, enabling precise season-of-death reconstructions.  
+Using **Laser-Induced Breakdown Spectroscopy (LIBS)**, this study generated high-resolution (<50 μm) elemental datasets from 85 limpet shell specimens excavated at the [Cnoc Coig](https://www.trove.scot/designation/SM13655) midden, [Oronsay](https://maps.app.goo.gl/8mS4Zs5FjuTWVi3s5). The Mg/Ca distributions captured seasonal temperature changes, enabling precise season-of-death reconstructions.  
 
 Results show that the site was occupied during **all four seasons**, with stratigraphic clustering suggesting multi-seasonal shell accumulation. These findings address the methodological limitations of earlier studies and provide robust evidence for complex seasonal occupation patterns. Future work will integrate seasonality analysis with radiocarbon dating to further refine Mesolithic settlement reconstructions.  
 
 ---
+## References in the poster
 
-## Repository Contents  
-- `Poster.pdf` – The conference poster 
+ * Hausmann, N., Theodoraki, D., Piñon, V., Siozos, P., Lemonis, A., & Anglos, D. (2023). Applying laser induced breakdown spectroscopy (LIBS) and elemental imaging on marine shells for archaeological and environmental research. Scientific Reports, 13(1), 19812.
+ ** Hausmann, N., & Meredith-Williams, M. (2017). Exploring accumulation rates of shell deposits through seasonality data. Journal of Archaeological Method and Theory, 24(3), 776-795.
+ *** Hausmann, N., Surge, D., & i Godino, I. B. (2024). Confirmation of Mg/Ca ratios as palaeothermometers in Atlantic limpet shells. Palaeogeography, Palaeoclimatology, Palaeoecology, 655, 112538.
+
+---
+## More info about the site
+
+[Trove website](https://www.trove.scot/designation/SM13655)
+
+

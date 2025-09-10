@@ -26,11 +26,11 @@ Results show that the site was occupied during **all four seasons**, with strati
 ---
 ## References in the poster
 
-\* Hausmann, N., Theodoraki, D., Piñon, V., Siozos, P., Lemonis, A., & Anglos, D. (2023). Applying laser induced breakdown spectroscopy (LIBS) and elemental imaging on marine shells for archaeological and environmental research. Scientific Reports, 13(1), 19812.
+\* [Hausmann, N., Theodoraki, D., Piñon, V., Siozos, P., Lemonis, A., & Anglos, D. (2023). Applying laser induced breakdown spectroscopy (LIBS) and elemental imaging on marine shells for archaeological and environmental research. Scientific Reports, 13(1), 19812.](https://www.nature.com/articles/s41598-023-46453-w)
 
-\** Hausmann, N., & Meredith-Williams, M. (2017). Exploring accumulation rates of shell deposits through seasonality data. Journal of Archaeological Method and Theory, 24(3), 776-795.
+\** [Hausmann, N., & Meredith-Williams, M. (2017). Exploring accumulation rates of shell deposits through seasonality data. Journal of Archaeological Method and Theory, 24(3), 776-795.](https://www.disperse-project.org/sites/disperse-project.org/files/uploads/37_2016_Hausmann_JAMT_DN31.pdf)
 
-\*** Hausmann, N., Surge, D., & i Godino, I. B. (2024). Confirmation of Mg/Ca ratios as palaeothermometers in Atlantic limpet shells. Palaeogeography, Palaeoclimatology, Palaeoecology, 655, 112538.
+\*** [Hausmann, N., Surge, D., & i Godino, I. B. (2024). Confirmation of Mg/Ca ratios as palaeothermometers in Atlantic limpet shells. Palaeogeography, Palaeoclimatology, Palaeoecology, 655, 112538.](https://seafront-project.com/PDFs/Hausmann-et-al.-2024.pdf)
 
 ---
 ## More info about the site

@@ -23,6 +23,8 @@ Using **Laser-Induced Breakdown Spectroscopy (LIBS)**, this study generated high
 
 Results show that the site was occupied during **all four seasons**, with stratigraphic clustering suggesting multi-seasonal shell accumulation. These findings address the methodological limitations of earlier studies and provide robust evidence for complex seasonal occupation patterns. Future work will integrate seasonality analysis with radiocarbon dating to further refine Mesolithic settlement reconstructions.  
 
+
+Please get in touch with [niklas@palaeo.eu](niklas@palaeo.eu) for any questions.
 ---
 ## References in the poster
 
